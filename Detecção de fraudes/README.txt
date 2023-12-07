@@ -1,0 +1,1 @@
+A base de dados para aplicação do modelo pode ser encontrada em https://www.kaggle.com/mlg-ulb/creditcardfraud

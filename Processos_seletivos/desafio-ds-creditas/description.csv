@@ -1,0 +1,32 @@
+id,Chave única de uma solicitação de cliente
+age,Idade do cliente 
+monthly_income,Renda mensal informada pelo cliente no momento do cadastro
+collateral_value,Valor do automóvel que será dado em garantia
+loan_amount,Valor solicitado pelo cliente para empréstimo
+city,Cidade do cliente
+state,Estado do cliente
+collateral_debt,Valor que o automovel do cliente tem de dívida (ex. Valor que ainda está financiado)
+verified_restriction,Indica se o cliente possui alguma restrição/pendência verificada. (NA significa que não houve consulta da situação do cliente)
+dishonored_checks,Indica se o cliente possui cheques sem fundo
+expired_debts,Indica se o cliente possui dívidas vencidas
+banking_debts,Indica se o cliente possui divídas bancárias
+commercial_debts,Indica se o cliente possui dividas comerciais
+protests,Indica se o cliente possui protestos
+marital_status,Estado civil 
+informed_restriction,Restrição informada pelo cliente
+loan_term,Prazo do empréstimo
+monthly_payment,Pagamento mensal do empréstimo
+informed_purpose,Motivo pelo qual o cliente deseja o empréstimo
+auto_brand,Marca do carro
+auto_model,Modelo do carro
+auto_year,Ano do carro
+pre_approved,Lead pré-aprovado (apenas leads pré-aprovados são atendidos)
+form_completed,Ficha cadastral completa pelo cliente
+sent_to_analysis,Enviado para análise de crédito
+channel,Canal de entrada do lead
+zip_code,CEP anonimizado do cliente
+landing_page,Página inicial que o cliente acessou no site
+landing_page_product,Produto da página inicial do cliente
+gender,Gênero do cliente
+education_level,Grau de instrução do cliente
+utm_term,"Tipo de dispositivo do cliente (c = computer, m = mobile, t = tablet)"
